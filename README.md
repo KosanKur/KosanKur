@@ -1,4 +1,8 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KosanKur.KosanKur" />
+<p align="right">
+  <img src="  ![Relaxo gif](https://github.com/user-attachments/assets/7ca834aa-99d9-4e01-b482-96c455a88780)
+   " alt="animated" />
+</p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Ich+Bin+Kosan+Kurschid!;" />
