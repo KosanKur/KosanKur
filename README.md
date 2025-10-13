@@ -1,10 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KosanKur.KosanKur" />
 
-
-<img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
-
-
-
+<img align="left" src="https://github.com/user-attachments/assets/b9ef8544-635a-4c22-9cfe-7b265c9860e7.gif">
 
 
 <h1 align="center">
