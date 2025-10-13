@@ -5,10 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Ich+Bin+Kosan+Kurschid!;" />
 </h1>
 
-<h3 align="center">leidenschaftlicher Softwareentwickler</h3>                                  <p align="right">
-  <img  width="220" height="210" src="https://github.com/user-attachments/assets/2306bea6-80e4-4a89-9974-c501f8bbce6c" alt="animated" />
-</p>
-
+<h3 align="center">leidenschaftlicher Softwareentwickler</h3>                                  <
 <br/>
 
 <div align="center">
