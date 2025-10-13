@@ -1,6 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KosanKur.KosanKur" />
 <p align="right">
-  <img src="  ![Relaxo gif](https://github.com/user-attachments/assets/7ca834aa-99d9-4e01-b482-96c455a88780 " alt="animated" />
+  ![Relaxo gif](https://github.com/user-attachments/assets/d4dfce1c-de52-43e7-9785-5effaec7f259)
+
 </p>
 
 <h1 align="center">
