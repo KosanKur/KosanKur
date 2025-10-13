@@ -1,8 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=KosanKur.KosanKur" />
-<p align="right">
-  ![Relaxo gif](https://github.com/user-attachments/assets/d4dfce1c-de52-43e7-9785-5effaec7f259)
 
-</p>
+
+<img src="./assets/hello-dark.gif#gh-light-mode-only" align="right" height="220" width="210" />
+
+
+
+
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Ich+Bin+Kosan+Kurschid!;" />
