@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="![Relaxo gif](https://github.com/user-attachments/assets/2306bea6-80e4-4a89-9974-c501f8bbce6c)" alt="animated" />
+  <img src="https://github.com/user-attachments/assets/2306bea6-80e4-4a89-9974-c501f8bbce6c" alt="animated" />
 </p>
 
 
