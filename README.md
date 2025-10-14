@@ -15,7 +15,7 @@
 
  🔭 I’m currently working on **a HomePage**
  
- 🌱 I’m currently learning **WebStrom**
+ 🌱 I’m currently learning **PHP**
 
  </div>
  
