@@ -9,7 +9,7 @@
 
 
 
-<h3 align="center">Leidenschaftlicher Softwareentwickler</h3>                                  <
+<h3 align="center">Leidenschaftlicher Anwendungsentwickler</h3>                                  <
 <br/>
 <div align="center">
 
